@@ -33,3 +33,12 @@ To reproduce results in Case Study 4, follow ```lsc/readme.txt```.
 
 All result figures can be found in the ```figures``` folder, together with a ```plot-results.ipynb``` to produce these figures.
 
+## Citation
+```
+@article{yu2024infmix,
+  title={Infinite mixture chaining: A probabilistic framework for the adaptive construction of word meaning},
+  author={Lei Yu and Yang Xu},
+  journal={Open Mind (To appear)},
+  year={2024}
+}
+```
