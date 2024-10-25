@@ -1,4 +1,8 @@
-This repository includes code and data for analyses in "Infinite mixture chaining: A probabilistic framework for the adaptive construction of word meaning".
+This repository includes code and data for analyses in the following work:
+
+Yu, L. and Xu, Y. (in press) Infinite mixture chaining: An
+efficiency-based framework for the dynamic construction of word meaning.
+Open Mind: Discoveries in Cognitive Science.
 
 ## English verb-noun compositions
 Python files to reproduce experiment results in Case Study 1 (English verb-noun compositions) can be found in the ```verb/``` folder.
