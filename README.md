@@ -42,7 +42,7 @@ All result figures can be found in the ```figures``` folder, together with a ```
 @article{yu2024infmix,
   title={Infinite mixture chaining: A probabilistic framework for the adaptive construction of word meaning},
   author={Lei Yu and Yang Xu},
-  journal={Open Mind (To appear)},
+  journal={Open Mind (In press)},
   year={2024}
 }
 ```
